@@ -1,5 +1,6 @@
 {
   "name": "com.kupnu4000.foo",
+  "publishConfig": { "registry": "https://npm.pkg.github.com/@kupnu4000" },
   "displayName": "Modules.Foo",
   "version": "1.0.0",
   "description": "Testing module creation",
