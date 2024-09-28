@@ -1,5 +1,9 @@
 {
   "name": "@kdev/foo",
+  "repository": "https://github.com/Kupnu4000/Modules.Foo",
+    "publishConfig": {
+      "registry":"https://npm.pkg.github.com/"
+    },
   "displayName": "Modules.Foo",
   "version": "1.0.0",
   "description": "Testing module creation",
