@@ -1,8 +1,5 @@
 {
-  "name": "@kdev/foo",
-  "publishConfig": {
-    "@kdev:registry": "https://npm.pkg.github.com"
-  },
+  "name": "@kupnu4000/foo",
   "displayName": "Modules.Foo",
   "version": "1.0.0",
   "description": "Testing module creation",
