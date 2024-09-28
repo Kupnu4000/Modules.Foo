@@ -1,5 +1,5 @@
 {
-  "name": "com.kdev.modules.foo",
+  "name": "@kdev/foo",
   "displayName": "Modules.Foo",
   "version": "0.0.1",
   "description": "Testing module creation",
