@@ -1,7 +1,7 @@
 {
-  "name": "@kdev/fooooooooooooooooooooooooooo",
+  "name": "@kdev/foo",
   "displayName": "Modules.Foo",
-  "version": "0.0.2",
+  "version": "1.0.0",
   "description": "Testing module creation",
   "hideInEditor": false,
   "keywords": [],
